@@ -1,0 +1,26 @@
+{
+  "name": "Guardaroba",
+  "short_name": "Guardaroba",
+  "description": "Guardaroba personale e outfit builder",
+  "start_url": "/wardrobe/",
+  "scope": "/wardrobe/",
+  "display": "standalone",
+  "background_color": "#FAF8F3",
+  "theme_color": "#FAF8F3",
+  "orientation": "portrait",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "/wardrobe/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/wardrobe/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
